@@ -23,7 +23,7 @@ Báo cáo ngắn, tối đa 2 trang. Số liệu chi tiết nằm trong các fil
 - **Nhiệm vụ B (Phân tích độ nhạy):** Khảo sát 9 kịch bản biến động tham số, tìm ra các yếu tố tác động mạnh nhất và đánh giá chi phí toàn hệ thống theo các ngưỡng giới hạn số lần chạy lại. Xem chi tiết tại [bang_chi_phi.md](bang_chi_phi.md).
 - **Nhiệm vụ C (Bảng lỗi & Khắc phục):** Gắn nhãn độc lập 20 ca lỗi theo 5 loại của Google PAIR, đạt đồng thuận 100%, xây dựng bảng khắc phục 5 ca gắn liền với event cảnh báo và vai trò phụ trách. Xem chi tiết tại [bang_loi.md](bang_loi.md).
 - **Nhiệm vụ D (Kế hoạch pilot):** Tính toán cỡ mẫu phân cụm (cluster randomization) theo nhân viên ($20$ can thiệp vs $20$ đối chứng), xác định MDE 6 điểm phần trăm, thiết lập 3 luật dừng chuẩn `NẾU – TRONG – THÌ – KHÔNG THÌ` trong file [pilot_plan.yaml](pilot_plan.yaml).
-- **Nhiệm vụ E (Chỉ số, Rủi ro & Hồ sơ):** Đặc tả 5 chỉ số và 10 event có `trace_id` tại [chi_so.md](chi_so.md), tổng hợp hồ sơ 1 trang tại [ho_so_launch_v0.md](ho_so_launch_v0.md) và thực hiện phản biện chéo tại [phieu_cham.md](phieu_cham.md).
+- **Nhiệm vụ E (Chỉ số, Rủi ro & Hồ sơ):** Đặc tả 5 chỉ số và 10 event có `trace_id` tại [chi_so.md](chi_so.md), tổng hợp hồ sơ 1 trang tại [ho_so_launch_v0.md](ho_so_launch_v0.md) và thực hiện phản biện chéo nhóm MVQ (`trmanh204/K5-L3A-DAY13-MVQ-LaunchEconomics`) tại [phieu_cham.md](phieu_cham.md).
 
 ## 4. Kết quả
 
